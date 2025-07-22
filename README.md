@@ -16,7 +16,7 @@ This repository contains a custom [ComfyUI](https://github.com/comfyanonymous/Co
 - `__init__.py` – 暴露节点入口。
 - `node_omniavatar_allinone.py` – 节点实现，直接调用 OmniAvatar 推理接口。
 - `requirements.txt` – 基础依赖列表。
-- `assets/icon.png` – 节点图标占位。
+
 
 ## 安装步骤
 
