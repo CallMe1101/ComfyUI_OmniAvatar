@@ -1,3 +1,4 @@
+
 # OmniAvatar
 
 This repository contains a custom [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node that wraps the open-source **OmniAvatar 14B** model. The node is called **"OmniAvatar All-in-One (14B)"** and accepts a portrait image, an audio file, and a text prompt to generate a talking video.
@@ -38,4 +39,14 @@ This repository contains a custom [ComfyUI](https://github.com/comfyanonymous/Co
 - `ckpt_path`：模型权重路径。
 
 节点执行时会暂存输入，并调用 `OmniAvatar.infer` 生成视频，控制台会显示进度条。
+
+
+
+# ComfyUI_OmniAvatar
+
+基于 [OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar) 的 ComfyUI 自定义节点  
+支持输入人像图片、音频、文本提示，生成同步口型与表情的视频序列。  
+节点参数和调用与OmniAvatar官方推理完全一致。
+
+---
 

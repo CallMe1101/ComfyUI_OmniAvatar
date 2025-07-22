@@ -1,7 +1,11 @@
+
 torch
 numpy==1.26.4
 ffmpeg-python
 omegaconf
+torch>=1.13
+numpy==1.26.4
+scipy==1.14.0
 librosa==0.10.2.post1
 tqdm
 peft==0.15.1
@@ -11,3 +15,17 @@ xfuser==0.4.1
 ftfy
 einops
 Pillow
+xfuser==0.4.1
+ftfy
+einops
+omegaconf
+ffmpeg-python
+dlib
+face_alignment
+opencv-python
+soundfile
+Pillow
+# 额外建议
+# faiss-cpu   # 部分依赖（如有报错可按需安装）
+# 其他依赖如bitsandbytes、gradio等仅用于训练/调试可选安装
+
