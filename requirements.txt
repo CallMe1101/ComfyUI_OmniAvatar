@@ -5,6 +5,7 @@ librosa==0.10.2.post1
 tqdm
 peft==0.15.1
 transformers==4.52.3
+scipy==1.14.0
 xfuser==0.4.1
 ftfy
 einops
