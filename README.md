@@ -27,7 +27,8 @@ This repository contains a custom [ComfyUI](https://github.com/comfyanonymous/Co
    下载 14B 权重和配置文件，并记录其路径。
 2. **设置 PYTHONPATH** 将 OmniAvatar 的 `src` 目录加入环境变量：
    ```bash
-   export PYTHONPATH=/path/to/OmniAvatar/src:$PYTHONPATH
+   export PYTHONPATH=/path/to/OmniAvatar:$PYTHONPATH
+   举例：$env:PYTHONPATH = "F:\Comfyui\custom_nodes\OmniAvatar;" + $env:PYTHONPATH
    ```
 3. **安装依赖**
    ```bash
