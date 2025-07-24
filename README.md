@@ -85,16 +85,6 @@ pip install -r requirements.txt
 
 ## 使用示例
 
-```mermaid
-flowchart LR
-  A[IMAGE] --> N[OmniAvatar 节点]
-  B[AUDIO] --> N
-  C[TEXT]  --> N
-  N --> D[frames (IMAGE张量)]
-  N --> E[video (VIDEO对象)]
-  E --> F[VideoViewer / SaveVideo]
-  E --> G[GetVideoComponents]
-```
 
 **步骤**：
 
