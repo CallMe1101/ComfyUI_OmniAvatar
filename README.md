@@ -1,4 +1,5 @@
 # ComfyUI_OmniAvatar
+[![python](https://img.shields.io/badge/python-3.12.9-green)](https://www.python.org/downloads/release/python-3129/)
 
 基于 [OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar) 开发的 ComfyUI 自定义节点，可通过输入人像图片、音频和文本提示，生成同步口型与表情的视频序列。节点参数和调用方式与 OmniAvatar 官方推理保持完全一致。
 
