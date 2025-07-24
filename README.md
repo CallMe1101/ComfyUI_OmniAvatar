@@ -116,6 +116,14 @@ pip install -r requirements.txt
 - 感谢 ComfyUI 社区：[ComfyUI Custom Nodes](https://docs.comfy.org/custom-nodes/walkthrough)
 
 ---
+## ⭐ Support
+If you like my projects and wish to see updates and new features, please consider supporting me. It helps a lot! 
+如果你也喜欢我的项目并且期待更多更新，可以点赞收藏
+
+
+[![buy-me-coffees](https://i.imgur.com/3MDbAtw.png)](https://www.buymeacoffee.com/yuvraj108cZ)
+[![paypal-donation](https://i.imgur.com/w5jjubk.png)](https://paypal.me/yuvraj108c)
+---
 
 ## 联系方式
 
