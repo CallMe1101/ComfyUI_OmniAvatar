@@ -255,3 +255,6 @@ class OmniAvatarAllInOneNode:
 
         # ─── 9. 返回 IMAGE 张量序列 与 VIDEO 对象 ─────────────
         return (frames_tensor, video_obj)
+
+NODE_CLASS_MAPPINGS = {"OmniAvatarAllInOneNode": OmniAvatarAllInOneNode}
+NODE_DISPLAY_NAME_MAPPINGS = {"OmniAvatarAllInOneNode": "OmniAvatar All-in-One (14B)"}
