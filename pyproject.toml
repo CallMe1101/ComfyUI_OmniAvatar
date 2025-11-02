@@ -29,7 +29,7 @@ Documentation = "https://github.com/CallMe1101/ComfyUI_OmniAvatar/wiki"
 "Bug Tracker" = "https://github.com/CallMe1101/ComfyUI_OmniAvatar/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "callme"
 DisplayName = "ComfyUI_OmniAvatar"
 Icon = ""
 includes = [] 
